@@ -1,5 +1,5 @@
 ## Hi there 👋
-Soy [Eber Romero]
+Soy Eber Romero
 
 Desarrollador full-stack construyendo productos reales de principio a fin — desde la arquitectura del backend hasta la app móvil que usan los usuarios finales. Actualmente buscando oportunidades remotas.
 
@@ -21,7 +21,7 @@ Algunos retos técnicos que resolví ahí (con más detalle en cada README): man
 TypeScript · React Native / Expo · Node.js · Express · PostgreSQL · Prisma · Clean Architecture · JWT · Jest
 
 📫 Contacto
-[eberdavidromero@gmail.com]
+eberdavidromero@gmail.com
 🇬🇧 English
 
 Full-stack developer building real products end to end — from backend architecture to the mobile app real users interact with. Currently open to remote opportunities.
